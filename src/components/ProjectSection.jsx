@@ -20,7 +20,7 @@ const projectsData = [
     title: "Tkinter Weather App",
     description:
       "Simple weather app created using Python's Tkinter library that returns the current condition of an entered location. Data is fetched from WeatherAPI.com.",
-    image: "/images/weather.png",
+    image: "/images/weather3.png",
     tag: ["All"],
     gitUrl: "https://github.com/HavishGuntreddi/weather-app",
     previewUrl: "/",
