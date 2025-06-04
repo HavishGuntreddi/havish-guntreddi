@@ -58,16 +58,17 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-            Hi, I'm Havish, an aspiring Computer Science student with a strong
-            interest in software development, back-end development, and machine
-            learning. I'm currently a senior in high school, hoping to attend
-            Georgia Tech after graduation. I have a strong understanding in
-            full-stack development with a focus in backend development. Through
-            coursework and personal projects, I’ve gained hands-on experience
-            with languages and frameworks such as JavaScript, Python, React,
-            Node.js, Express.js, and MongoDB. When I’m not coding, I enjoy
-            solving puzzles, staying active, and creating VR games. I'm always
-            looking to learn something new and challeneg myself.
+            Hi, I&apos;m Havish, an aspiring Computer Science student with a
+            strong interest in software development, back-end development, and
+            machine learning. I&apos;m currently a senior in high school, hoping
+            to attend Georgia Tech after graduation. I have a strong
+            understanding in full-stack development with a focus in backend
+            development. Through coursework and personal projects, I&apos;ve
+            gained hands-on experience with languages and frameworks such as
+            JavaScript, Python, React, Node.js, Express.js, and MongoDB. When
+            I&apos;m not coding, I enjoy solving puzzles, staying active, and
+            creating VR games. I&apos;m always looking to learn something new
+            and challenging myself.
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton

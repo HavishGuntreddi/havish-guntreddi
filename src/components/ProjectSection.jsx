@@ -13,7 +13,7 @@ const projectsData = [
     image: "/images/catalog.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/HavishGuntreddi/product-catalog",
-    previewUrl: "/",
+    previewUrl: "",
   },
   {
     id: 2,
@@ -23,7 +23,7 @@ const projectsData = [
     image: "/images/weather3.png",
     tag: ["All"],
     gitUrl: "https://github.com/HavishGuntreddi/weather-app",
-    previewUrl: "/",
+    previewUrl: "",
   },
 ];
 
