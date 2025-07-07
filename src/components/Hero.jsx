@@ -33,9 +33,9 @@ const Hero = () => {
             <Link
               href="Resume.docx.pdf"
               target="_blank"
-              className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-800 text-white mt-3"
+              className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-primary-500 to-secondary-500  text-white mt-3"
             >
-              <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">
+              <span className="block text-base bg-amber-50 hover:bg-gray-300 rounded-full px-5 py-2 text-gray-800">
                 View Resume
               </span>
             </Link>
