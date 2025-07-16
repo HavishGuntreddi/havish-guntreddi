@@ -26,7 +26,7 @@ const Hero = () => {
               speed={50}
             />
           </h1>
-          <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
+          <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 md:text-[17px] lg:text-xl">
             Aspiring AI/ML engineer and passionate full-stack developer
           </p>
           <div>
@@ -47,7 +47,7 @@ const Hero = () => {
           transition={{ duration: 0.5 }}
           className="col-span-4 place-self-center mt-4 lg:mt-0"
         >
-          <div className="rounded-full w-[350px] h-[250px] lg:w-[400px] lg:h-[400px] relative">
+          <div className="rounded-full w-[350px] h-[250px] lg:w-[400px] lg:h-[400px] md:w-[300px] md:h-[300px] relative">
             <Image
               src="/images/pfp.JPG"
               alt="hero image"
