@@ -54,12 +54,13 @@ const AboutSection = () => {
   return (
     <section className="text-white" id="about">
       <div className="md:grid md:grid-cols-2 gap-8 items-center py-8 px-4 xl:gap-2 sm:py-16 xl:px-18">
-        <div className="relative overflow-hidden">
+        <div className="relative w-full max-w-md md:max-w-lg aspect-[3/4] overflow-hidden">
           <Image
-            src="/images/second_portfolio.jpg"
+            src="/images/portfolio4.png"
             alt="about"
-            width={400}
-            height={100}
+            width={450}
+            height={150}
+            className="rounded-xl"
           />
         </div>
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
